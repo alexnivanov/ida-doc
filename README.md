@@ -1,6 +1,6 @@
 # ida-doc
 
-https://i-da.me
+https://idamap.net
 
 ## iDa documentation
 
