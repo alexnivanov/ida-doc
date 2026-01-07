@@ -42,4 +42,4 @@ You decide who can see your location.
 
 # Keywords
 
-map, places, events, people nearby, social, meetups, interests, communities, location, city, friends, activities, outdoor
+map, places, events, people nearby, social, interests, communities, location, friends, activities
