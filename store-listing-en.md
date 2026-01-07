@@ -1,38 +1,45 @@
 # Name
 
-iDa: places, events & people
+iDa - Map for Real Life
 
 # Subtitle
 
-Real communication
+Places, events & people
 
-# Keywords
+# Promotional Text
 
-places, events, people, map, location, meetings, friends, communication, outdoor
+iDa shows what’s happening around you right now.
+Places, events and people with shared interests — all on one map.
+Gather a group and step into the real world.
 
 # Description
 
-iDa is an app for communication in the real world!
+iDa turns your city into a living map.
+Discover places, events, and people — all in one app.
 
-HOW TO USE THE APP:
+🗺 Map
 
-*Map*
-Use buttons on the bottom to search for Places, Events & People.
-Use the Radar button (bottom left) to scan area for existing objects.
-To create Place or Event, long tap on the map until red marker appears, then tap it again. Notice "Visible to all" switch: if it's on, new object is visible for all users of the app! It's good for public places like playground, but doesn't suite private homes.
+Explore the city and see what’s happening around you.
 
-You can also use Plus button (bottom of the map) to create Places, Events and Movements.
+- find interesting places and events nearby 
+- see who’s there right now and chat with others
+- create your own places and events — public or private
 
-*Communities*
-Connect with people in your area using various interests! You'll get notified when there are new interests in your area. If you add new interest, people around will get notified as well!
+👥 Communities & interests
 
-*More*
-Edit your Profile, upload your avatar, add Contacts and create Groups. For each Group and Contact you can enable location sharing.
+Connect with people nearby through shared interests.
 
-GOOD TO KNOW:
+- add your interests
+- find groups and hangouts around you in real time — right on the map
 
-You can invite Contacts to Places, Events and Movements, chat with them and receive auto check-in notifications.
+📍 Location & Privacy
 
-PRIVACY:
+You decide who can see your location.
 
-Your location is shared with Communities, Groups and Users of your choice. If you are participating in a Movement, your location is shared with all participants.
+- share your location with selected contacts or groups
+- join movements to share your location temporarily
+- control visibility at any time
+
+# Keywords
+
+map, places, events, people nearby, social, meetups, interests, communities, location, city, friends, activities, outdoor
