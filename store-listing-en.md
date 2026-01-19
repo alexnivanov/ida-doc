@@ -1,6 +1,6 @@
 # Name
 
-iDa - Map for Real Life
+iDa — Interactive Map
 
 # Subtitle
 
